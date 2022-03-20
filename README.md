@@ -1,4 +1,4 @@
-# modact2 
+# R y python: Machine Learning y análisis de datos 
 1. Diseño de datos, transformaciones y visualización
 a) Tipo de datos: estructurados y no estructurados
 b) Observaciones vs. variables
